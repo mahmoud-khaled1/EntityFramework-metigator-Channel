@@ -1,0 +1,5 @@
+D:\Git_Projects\EntityFramework-metigator-Channel\ADO.NET\ExecuteRawSql\obj\Debug\net6.0\ExecuteRawSql.csproj.AssemblyReference.cache
+D:\Git_Projects\EntityFramework-metigator-Channel\ADO.NET\ExecuteRawSql\obj\Debug\net6.0\ExecuteRawSql.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_Projects\EntityFramework-metigator-Channel\ADO.NET\ExecuteRawSql\obj\Debug\net6.0\ExecuteRawSql.AssemblyInfoInputs.cache
+D:\Git_Projects\EntityFramework-metigator-Channel\ADO.NET\ExecuteRawSql\obj\Debug\net6.0\ExecuteRawSql.AssemblyInfo.cs
+D:\Git_Projects\EntityFramework-metigator-Channel\ADO.NET\ExecuteRawSql\obj\Debug\net6.0\ExecuteRawSql.csproj.CoreCompileInputs.cache
